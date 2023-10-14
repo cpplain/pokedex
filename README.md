@@ -1,10 +1,10 @@
-# Pokedex CLI
+# Pokédex CLI
 
-The Pokedex CLI is a Go CLI project that implements a very basic Pokedex as a learning exercise. Data for the Pokedex is fetched from [PokeAPI](https://pokeapi.co).
+The Pokédex CLI is an exploration of implementing a CLI using Go. Data for the Pokédex is fetched from the [PokéAPI](https://pokeapi.co).
 
 ## Requirements
 
-The app requires Go. All development and testing was done using Go `1.21`. Other versions may work but have not been tested.
+The app requires Go. All development and testing was completed using Go `1.21`. Other versions may work but have not been tested.
 
 ## Running the App
 
@@ -28,4 +28,4 @@ Pokedex > exit
 
 ## Boot.dev
 
-The Pokedex CLI is a learning exercise I created while working through [Boot.dev](https://boot.dev) coursework. Boot.dev is a great resource for learning backend development. Please check out their courses if you're interested in learning to build similar projects.
+I created the Pokédex while working through the coursework at [Boot.dev](https://boot.dev). Boot.dev is a great resource for learning backend development and is worth checking out if you're interested in building similar projects.
