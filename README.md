@@ -26,6 +26,6 @@ Exit the app by type "exit".
 Pokedex > exit
 ```
 
-## Boot.dev
+## Acknowledgments
 
-Checkout [Boot.dev](https://boot.dev) if you're interested in improving your backend development skills by building similar projects.
+Thanks to [Boot.dev](https://boot.dev) for providing most of the learning material used for this project.
